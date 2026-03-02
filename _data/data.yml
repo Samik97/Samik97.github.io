@@ -138,23 +138,23 @@ projects:
 #     conference: International Conference on Machine Learning, 2020
 
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Sumana Ghosh
-    email: sumana@isical.ac.in
-    phone:
-    role: Professor at Indian Statistical Institute, Kolkata
-    recommendation: |
-      Samik is a diligent and inquisitive student. He has a strong foundation in mathematics
-      and a keen interest in computer science. I have no doubt that he will excel in his future endeavors.
-  - person: Partha Pratim Mohanta
-    email: partha.p.mohanta@gmail.com
-    phone:
-    role: Associate Scientist (A) at Indian Statistical Institute, Kolkata
-    recommendation: |
-      Samik is a highly motivated and talented individual. He has a strong work ethic and is
-      always willing to go the extra mile to achieve his goals.
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Sumana Ghosh
+#     email: sumana@isical.ac.in
+#     phone:
+#     role: Professor at Indian Statistical Institute, Kolkata
+#     recommendation: |
+#       Samik is a diligent and inquisitive student. He has a strong foundation in mathematics
+#       and a keen interest in computer science. I have no doubt that he will excel in his future endeavors.
+#   - person: Partha Pratim Mohanta
+#     email: partha.p.mohanta@gmail.com
+#     phone:
+#     role: Associate Scientist (A) at Indian Statistical Institute, Kolkata
+#     recommendation: |
+#       Samik is a highly motivated and talented individual. He has a strong work ethic and is
+#       always willing to go the extra mile to achieve his goals.
 
 
 skills:
