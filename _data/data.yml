@@ -1,0 +1,184 @@
+sidebar:
+  position: right
+  about: True
+  education: True
+
+  name: Samik Acharya
+  tagline: I intersect Mathematics with Computer Science
+  avatar: profile.jpeg
+
+  email: samikacharya0017@email.com
+  phone: +91 9775167109
+  timezone: Asia/Kolkata
+  citizenship:
+  website: https://samik97.github.io
+  linkedin: samik-acharya-022471143
+  xing:
+  github: samik97
+  telegram:
+  gitlab:
+  bitbucket:
+  bluesky:
+  twitter:
+  stack-overflow:
+  codewars:
+  goodreads:
+  mastodon:
+  hackerrank:
+  leetcode:
+  pdf:
+
+  languages:
+    title: Languages
+    info:
+    - idiom: Bengali
+      level: Native
+
+    - idiom: English
+      level: Professional
+
+    - idiom: Hindi
+      level: Professional
+
+  interests:
+    title: Interests
+    info:
+    - item: Gardening
+      link:
+
+    - item: Table Tennis
+      link:
+
+    - item: Cooking
+      link:
+
+
+career-profile:
+  title: Career Profile
+  summary: |
+    I am a mathematical statistician with a background that spans pure mathematics,
+    education, and applied statistics. My academic journey has equipped me with a
+    strong foundation in both theoretical and computational aspects of mathematics
+    and statistics.
+
+    I am currently working as a Research Assistant at the Indian Statistical Institute,
+    Kolkata, where my work involves applications of graph-theoretic structures in
+    telecommunications. My long-term goal is to pursue a PhD at the intersection of
+    mathematics and computer science.
+
+education:
+  title: Education
+  info:
+  - degree: M. Sc. in Applied Statistics and Analytics | (University Gold Medalist)
+    university: Maulana Abul Kalam Azad University of Technology, West Bengal (formerly WBUT)
+    time: 2022 - 2024
+
+  - degree: B. Ed. in Mathematics
+    university: West Bengal University of Teachers' Training, Education Planning and Administration
+    time: 2020 - 2022
+
+  - degree: M. Sc. in Pure Mathematics
+    university: Ramakrishna Mission Vidyamandira, West Bengal (DST INSPIRE Scholarship)
+    time: 2018 - 2020
+
+  - degree: B. Sc. in Mathematics
+    university: Medinipur College, West Bengal (DST INSPIRE Scholarship)
+    time: 2015 - 2018
+
+
+experiences:
+  title: Experiences
+  info:
+  - role: Research Assistant
+    time: 2025 - Present
+    company: Indian Statistical Institute, Kolkata
+    division: Computer and Communication Sciences Division
+    Unit: Electronics and Communication Sciences Unit
+    Supervisor: Prof. Sumana Ghosh
+    details: |
+      Working on research involving the application of hypergraph-theoretic methods
+      in the domain of telecommunications.
+
+
+certifications:
+  title: Certifications
+  list:
+  - name: Machine Learning Specialization
+    start: 2023
+    end: 2023
+    organization: Coursera
+    credentialid: BQN33LPSU7HD
+    credentialurl: www.coursera.org/account/accomplishments/specialization/BQN33LPSU7HD
+    credentialname: Coursera
+    details: |
+      Completed a specialization covering core machine learning concepts and techniques.
+
+
+projects:
+  title: Projects
+  intro: >
+    A selection of projects I have worked on.
+  assignments:
+  - title: Conflict Mitigation in CRAN
+    link: "#conflictmitigation"
+    tagline: "Applying hypergraph-theoretic methods to address and mitigate conflicts in CRAN packages."
+
+# publications:
+#   title: Publications
+#   intro: |
+#     Here are some of my publications. For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=example).
+#   papers:
+#   - title: The Art of Computer Programming
+#     link: "#"
+#     authors: Donald E. Knuth
+#     conference: Addison-Wesley, 1968
+#   - title: A New Approach to Machine Learning
+#     link: "#"
+#     authors: Jane Doe, John Smith
+#     conference: International Conference on Machine Learning, 2020
+
+
+recommendations:
+  title: Recommendations
+  list:
+  - person: Sumana Ghosh
+    email: sumana@isical.ac.in
+    phone:
+    role: Professor at Indian Statistical Institute, Kolkata
+    recommendation: |
+      Samik is a diligent and inquisitive student. He has a strong foundation in mathematics
+      and a keen interest in computer science. I have no doubt that he will excel in his future endeavors.
+  - person: Partha Pratim Mohanta
+    email: partha.p.mohanta@gmail.com
+    phone:
+    role: Associate Scientist (A) at Indian Statistical Institute, Kolkata
+    recommendation: |
+      Samik is a highly motivated and talented individual. He has a strong work ethic and is
+      always willing to go the extra mile to achieve his goals.
+
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+  - name: SPSS
+    level: 100%
+
+  - name: SAS (Statistical Analysis System)
+    level: 100%
+
+  - name: Matlab
+    level: 98%
+
+  - name: R
+    level: 98%
+
+  - name: Python
+    level: 95%
+
+  - name: SQL
+    level: 75%
+
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="https://samik97.github.io" target="_blank" rel="nofollow">Samik Acharya</a>
