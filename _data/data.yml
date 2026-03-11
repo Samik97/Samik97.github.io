@@ -119,7 +119,7 @@ projects:
   intro: >
     A selection of projects I have worked on.
   assignments:
-  - title: Conflict Mitigation in CRAN
+  - title: Conflict Mitigation in CRAN,VRAN
     link: "#conflictmitigation"
     tagline: "Applying hypergraph-theoretic methods to address and mitigate conflicts in CRAN packages."
 
